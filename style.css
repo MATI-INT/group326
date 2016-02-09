@@ -1,0 +1,13 @@
+/* my comment */
+table {
+  border: 1px solid black;
+  background-color: rgba(50,50,100,0.5);
+}
+
+p.important_data {
+  color: red;
+}
+
+.important_data .other_data .some_other_data {
+  color: blue;
+}

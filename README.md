@@ -2,10 +2,11 @@
 
 * htmlbook.ru
 * caniuse.com
-* sitepoint.com
+* sitepoint.com (https://www.sitepoint.com/premium/refer/ilyabodrov)
 * pluralsight.com
 * pragprog.com
 * diveintohtml5.info 
+* stackoverflow.com
 
 # Browsers
 
